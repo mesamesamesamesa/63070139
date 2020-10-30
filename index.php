@@ -4,7 +4,7 @@
     </head>
     <body>
         <h1>This is cat</h1>
-        <p>My Description: cute</p>
+        <p>My Description: cute cute</p>
         <img src="cat.jpg">
         <br>
         <a href="http://www.it.kmitl.ac.th">This is a Link</a>
